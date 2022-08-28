@@ -4,7 +4,7 @@ This is a mini-project that demonstrates the ability to create a blur hover effe
 
 ## Demo
 
-- You can see demo [HERE]()
+- You can see demo [HERE](https://css-text-hover.vercel.app/)
 
 ## Screenshots
 
